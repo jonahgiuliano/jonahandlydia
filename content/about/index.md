@@ -1,9 +1,8 @@
 ---
 title: "About"
-description: "pickles: —ANANKE."
+description: "pickles"
 featured_image: '/images/dulcimer2.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/dulcimer2.jpg" title="pickles" >}}
