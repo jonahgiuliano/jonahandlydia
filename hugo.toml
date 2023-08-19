@@ -2,7 +2,8 @@ baseURL = 'https://jonahgiuliano.github.io/jonahandlydia/'
 canonifyURLs = true
 
 languageCode = 'en-us'
-title = 'Jonah and Lydia'
+title = 'Lydia Martin and Jonah Giuliano'
+subtitle = 'Lydia Martin and Jonah Giuliano'
 theme = 'huey'
 
 useIndexContent = true
