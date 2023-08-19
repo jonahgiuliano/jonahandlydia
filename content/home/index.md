@@ -10,4 +10,4 @@ menu: nav
 weight: 2
 
 ---
-![dulcimer](header.jpg)
+![dulcimer](dulcimer_action.jpg)
