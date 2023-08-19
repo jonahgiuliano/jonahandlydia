@@ -2,3 +2,20 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Jonah and Lydia'
 theme = 'huey'
+
+[menu]
+
+# Top Navigation
+[[menu.nav]]
+  identifier = 'home'
+  name = 'Home'
+  title = 'Home'
+  url = '/'
+  weight = 10
+
+[[menu.nav]]
+  identifier = 'About'
+  name = 'About'
+  title = "About"
+  url = '/aboot/'
+  weight = 20
