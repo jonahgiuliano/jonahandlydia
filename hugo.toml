@@ -1,4 +1,5 @@
 baseURL = 'https://jonahgiuliano.github.io/jonahandlydia/'
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Jonah and Lydia'
 theme = 'huey'
