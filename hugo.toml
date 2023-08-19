@@ -1,21 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Jonah and Lydia'
+title = 'Lydia Martin and Jonah Giuliano'
 theme = 'huey'
 
-[menu]
-
-# Top Navigation
-[[menu.nav]]
-  identifier = 'home'
-  name = 'Home'
-  title = 'Home'
-  url = '/'
-  weight = 10
-
-[[menu.nav]]
-  identifier = 'About'
-  name = 'About'
-  title = "About"
-  url = '/about/'
-  weight = 20
