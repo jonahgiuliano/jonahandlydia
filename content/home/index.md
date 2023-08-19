@@ -5,7 +5,6 @@ draft: false
 url: /
 type: pages
 layout: page
-fa_icon: "fas fa-user"
 menu: nav
 weight: 2
 
