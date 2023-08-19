@@ -17,5 +17,5 @@ theme = 'huey'
   identifier = 'About'
   name = 'About'
   title = "About"
-  url = '/aboot/'
+  url = '/about/'
   weight = 20

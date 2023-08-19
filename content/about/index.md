@@ -5,4 +5,5 @@ featured_image: '/images/dulcimer2.jpg'
 menu:
   main:
     weight: 1
+type: "page"
 ---
