@@ -10,4 +10,4 @@ weight: 2
 fa_icon: "fas fa-user"
 
 ---
-![dulcimer](dulcimer_action.jpg)
+![dulcimer](images/dulcimer2.jpg)
